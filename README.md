@@ -58,8 +58,8 @@
 
 <h2>📌 Featured Projects</h2>
 <ul>
-  <li><b>Sales Forecasting Using Machine Learning</b> - A project leveraging Python and ML techniques to predict sales trends. <a href="https://github.com/geraldtomy/sales-forecasting">[View Project]</a></li>
-  <li><b>Data Visualization Dashboards</b> - Creating insightful dashboards with Python libraries. <a href="https://github.com/geraldtomy/data-visualization">[View Project]</a></li>
+  <li><b>Sales Forecasting Using Machine Learning</b> - A project leveraging Python and ML techniques to predict sales trends. <a href="https://github.com/geraldtomy/sales-forecasting"></a></li>
+  <li><b>Data Visualization Dashboards</b> - Creating insightful dashboards with Python libraries. <a href="https://github.com/geraldtomy/data-visualization"></a></li>
 </ul>
 
 ---
