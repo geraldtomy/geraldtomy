@@ -4,6 +4,11 @@
 </p>
 
 ---
+<p align="center"><i>💡 " “Data is the new oil. However, like oil, it can’t be used in its raw form; it has to be processed.” — Michael Palmer"</i></p>
+
+---
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=geraldtomy&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="150"/>
