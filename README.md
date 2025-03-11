@@ -4,7 +4,10 @@
 </p>
 
 ---
-<p align="center"><i>💡 " “Data is the new oil. However, like oil, it can’t be used in its raw form; it has to be processed.” — Michael Palmer"</i></p>
+<blockquote align="center">
+  <p><i>“Data is the new oil. However, like oil, it can’t be used in its raw form; it has to be processed.”</i></p>
+  <footer><i>— Michael Palmer</i></footer>
+</blockquote>
 
 ---
 
