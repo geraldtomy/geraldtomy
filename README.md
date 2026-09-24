@@ -56,7 +56,7 @@
 ---
 
 <h2>🎧 Fun Fact</h2>
-<p>When I'm not coding, you can find me vibing to music.</p>
+<p>When I'm not coding, you can find me vibing to music or gaming.</p>
 
 ---
 <blockquote align="center">
